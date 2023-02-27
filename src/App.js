@@ -6,6 +6,7 @@ export default function App() {
 	const jokeElements = jokesData.map(joke => {
 		return (
 			<Jokes Setup={joke.Setup} Punchline={joke.Punchline} />
+			console.log("This is a string");
 		) 
 	})
 	return (
