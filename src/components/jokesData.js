@@ -21,5 +21,8 @@ export default [
 
 	{
 		Punchline: "I dont know but the flag is a big plus"
+	},
+	{
+		Punchline: "Tell me another one"
 	}
 ];
